@@ -1,5 +1,7 @@
 homepage: ​"www.timeonegroup.com"​,
 documentation: ​"https://github.com/TimeOne-Group/gtm-vendor-timeone-sdk-cmp/blob/main/docs/install.md"​,
 versions:
+  - sha: 12c6b1cd208e13dfd2c84679fb316e8797bed5a8
+    changeNotes: add tests + categories
   - sha: 09c34817bf10ff0d1bab38cfd65434016980ce73
     changeNotes: ​Initial release.
